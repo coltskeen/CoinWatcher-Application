@@ -1,6 +1,6 @@
 <h1 align="center">CoinWatcher Application</h1>
 
-![Image](CoinWatch.png)
+![Image](Coin-Watcher.png)
 
 Project Objective: Write an application that accomplishes the minimum requirements below, and looks nicely styled and polished. Complete all features and styling in two days. 
 
